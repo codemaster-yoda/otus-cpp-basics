@@ -1,2 +1,2 @@
 # otus-cpp-basics
-Otus Basics C++
+Otus Basics C++.
