@@ -1,5 +1,4 @@
 //заголовочный файл с объявлением функции
 #pragma once
 
-void example_function();
-void name();
+void todo_move_me_out();

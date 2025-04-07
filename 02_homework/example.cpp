@@ -1,7 +1,7 @@
 #include <iostream>
-#include "move_me_out.h"
+#include "example.h"
 
 
 void example_function(){
-    std::cout<<"Finish"<< std::endl;
+    std::cout<<"Hello from example function!" << std::endl;
 }

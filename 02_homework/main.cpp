@@ -1,7 +1,10 @@
-#include "move_me_out.h"
+#include "example.h"
 
 int main(){
-    name();
+    std::cout << "Hello, World!" << std::endl;
+
+    todo_move_me_out();
     example_function();
+    
     return 0;
 }
