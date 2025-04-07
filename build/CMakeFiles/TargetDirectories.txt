@@ -1,0 +1,3 @@
+/home/kalli/otus-cpp-basics/build/CMakeFiles/hello_world.dir
+/home/kalli/otus-cpp-basics/build/CMakeFiles/edit_cache.dir
+/home/kalli/otus-cpp-basics/build/CMakeFiles/rebuild_cache.dir
