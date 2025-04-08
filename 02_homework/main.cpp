@@ -1,4 +1,6 @@
+#include <iostream>
 #include "example.h"
+#include "move_me_out.h"
 
 int main(){
     std::cout << "Hello, World!" << std::endl;
